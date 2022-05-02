@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beepblue
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning css, js, python
+- 👀 I’m interested in iOS.
+- 🌱 I’m currently learning swift, swiftui
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
